@@ -1,0 +1,12 @@
+def birthday():
+    print('enter name of person ')
+def happy():
+    print('happy birthday to you \n'*3)
+def wish(person):
+    happy()
+    print('happy birthday to ',person1 +'.')
+    print('happy birthday to you')
+
+birthday()
+person1=input()
+wish(person1)
